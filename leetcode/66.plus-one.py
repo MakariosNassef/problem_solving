@@ -19,4 +19,3 @@ class Solution:
             n //= 10 
         return digits
 # @lc code=end
-
